@@ -2,7 +2,7 @@
 <!-- On-the-job ticket or feature request Challenges -->
 
 ## Description 
-
+ This application will be browser-based and use JavaScript code to dynamically update the HTML and CSS files.
 
 ## User Story
 
@@ -29,9 +29,12 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Usage 
+This is a program that employees can use to generate random passwords based on predetermined parameters. It protects your data and provides an extra level of security.
 
+## Sources 
+ChatGPT - https://chat.openai.com/
 
- ## Screenshots
+## Screenshots
 <img src=""/>
 <img src=""/> 
 <img src=""/> 
