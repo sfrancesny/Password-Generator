@@ -2,7 +2,7 @@
 <!-- On-the-job ticket or feature request Challenges -->
 
 ## Description 
- This application will be browser-based and use JavaScript code to dynamically update the HTML and CSS files.
+ This application will be browser-based and use JavaScript code to dynamically update the HTML and CSS password generator files.
 
 ## User Story
 
