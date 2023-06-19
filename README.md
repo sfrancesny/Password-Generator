@@ -35,13 +35,13 @@ This is a program that employees can use to generate random passwords based on 
 ChatGPT - https://chat.openai.com/
 
 ## Screenshots
-<img src="Password-Generator1"/>
-<img src="Password-Generator2"/> 
-<img src="Password-Generator3"/> 
-<img src="Password-Generator4"/> 
-<img src="Password-Generator5"/> 
-<img src="Password-Generator6"/> 
-<img src="Password-Generator7"/> 
+<img src="Password-Generator1.png"/>
+<img src="Password-Generator2.png"/> 
+<img src="Password-Generator3.png"/> 
+<img src="Password-Generator4.png"/> 
+<img src="Password-Generator5.png"/> 
+<img src="Password-Generator6.png"/> 
+<img src="Password-Generator7.png"/> 
 
 
 Link: https://sfrancesny.github.io/Password-Generator/
